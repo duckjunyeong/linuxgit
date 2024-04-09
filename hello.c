@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-  printf("%s", "hl world!!!!!!!!");
+  printf("%s", "l world!!!!!!!!");
 
   return 1; 
 
